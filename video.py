@@ -1,5 +1,7 @@
 import cv2
 
+# TY PRIEMNIY
+
 def getVideo(path):
 	video = cv2.VideoCapture(path)
 	return {
