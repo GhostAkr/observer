@@ -4,6 +4,8 @@ import torch.nn.functional as F
 import math
 import time
 
+# TY PIDOR HAHAHAHHAHAHAHA
+
 
 def timeit(x, func, iter=10):
 	torch.cuda.synchronize()
